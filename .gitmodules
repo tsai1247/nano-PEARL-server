@@ -1,0 +1,6 @@
+[submodule "nano-PEARL"]
+	path = nano-PEARL
+	url = https://github.com/nctu6/nano-PEARL
+[submodule "FastChat"]
+	path = FastChat
+	url = https://github.com/nctu6/FastChat
